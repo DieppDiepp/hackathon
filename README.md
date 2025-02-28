@@ -1,7 +1,7 @@
 
 # Social Media Language Filter Extension 🌐✨
 
-Chrome Extension sử dụng NLP để lọc & thay thế từ ngữ không phù hợp trong tin nhắn/bình luận, giúp trẻ em giao tiếp an toàn trên mạng xã hội mà vẫn giữ nguyên sắc thái câu.
+Chrome Extension sử dụng NLP để lọc & thay thế từ ngữ không phù hợp trong tin nhắn/bình luận, giúp giáo dục người dùng giao tiếp an toàn trên mạng xã hội mà vẫn giữ nguyên sắc thái câu.
 
 ![Demo](https://via.placeholder.com/800x400?text=GIF+or+Screenshot+Demo+Here)
 

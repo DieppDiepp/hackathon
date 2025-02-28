@@ -6,12 +6,12 @@ Chrome Extension sử dụng NLP để lọc & thay thế từ ngữ không phù
 ![Demo](https://via.placeholder.com/800x400?text=GIF+or+Screenshot+Demo+Here)
 
 ## ✨ Tính năng chính
-- **Phát hiện & thay thế từ nhạy cảm**: Tự động đề xuất từ ngữ chuẩn mực (VD: "Đù má" → "Wow").
+- **Phát hiện & thay thế từ nhạy cảm**: Tự động đề xuất từ ngữ chuẩn mực (VD: "Đù má" → "Ê sốc quá").
 - **Giữ nguyên ngữ cảnh**: Duy trì ý nghĩa gốc và sắc thái câu khi thay thế.
 - **Hoạt động thời gian thực**: Quét nội dung ngay khi người dùng nhập liệu.
 - **Tuỳ chỉnh cấp độ lọc**: 3 chế độ (Cơ bản/Trung bình/Chặt chẽ).
 
-## 🛠 Công nghệ sử dụng
+## 🛠 Công nghệ sử dụng (AI đề xuất, chưa chốt)
 | Mục đích               | Công cụ/Công nghệ                                   |
 |-------------------------|----------------------------------------------------|
 | Xử lý ngôn ngữ tự nhiên | **Transformers** (Hugging Face), **spaCy**         |

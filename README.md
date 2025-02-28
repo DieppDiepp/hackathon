@@ -1,5 +1,5 @@
 
-# Social Media Language Filter Extension 🌐✨
+# ViSocial Media Language Filter Extension 🌐✨
 
 Chrome Extension sử dụng NLP để lọc & thay thế từ ngữ không phù hợp trong tin nhắn/bình luận, giúp giáo dục người dùng giao tiếp an toàn trên mạng xã hội mà vẫn giữ nguyên sắc thái câu.
 
